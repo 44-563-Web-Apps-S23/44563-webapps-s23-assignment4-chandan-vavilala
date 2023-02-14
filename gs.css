@@ -1,0 +1,25 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    font-size: 18px;
+}
+
+.direction{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    font-size:16px;
+    background-color: #CCCCFF;
+}
+.hover{
+    color:aqua;
+    background-color: 99FF99;
+}
+.MRS_X{
+    color: blue;
+}
+.MISS_Y{
+    color:brown;
+}
+
+
+
