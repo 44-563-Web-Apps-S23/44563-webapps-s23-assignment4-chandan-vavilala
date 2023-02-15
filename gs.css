@@ -54,6 +54,13 @@ tr:nth-child(odd){
     border: 2px solid black;
 }
 
+.MRS_X:hover{
+    text-shadow:0px 8px 3px rgb(194, 114, 28);
+}
+.MISS_Y:hover{
+    text-shadow:0px 8px 3px blueviolet;
+
+}
 
 
 
