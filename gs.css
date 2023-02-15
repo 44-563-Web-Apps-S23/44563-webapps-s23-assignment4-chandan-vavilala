@@ -1,11 +1,11 @@
 .speech{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     color:black;
     font-size: 20px;
 }
 
 .direction{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     color:black;
     font-size:16px;
     background-color: blanchedalmond;
@@ -15,10 +15,12 @@
     background-color:#000099;
 }
 .MRS_X{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blue;
     font-size: 16px;
 }
 .MISS_Y{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:red;
     font-size: 16px;
 }
@@ -30,7 +32,8 @@ table{
     text-align: center;
     margin-top :5%;
     margin-bottom: 5%;
-    width:100%;
+    width:50%;
+    
 }
 th{
     background-color: rgb(52, 83, 237);
@@ -91,14 +94,30 @@ ul {
   }
   
   li a:hover {
-    background-color: #1a1dbf;
+    background-color: #d26b17;
     color:white;
   }
 
   .active {
-    background-color: #dc1b48;
+    background-color:rgb(9, 63, 171);
+    color:white;
   }
 
+.material-symbols-outlined {
+    height:8px;
+    width:auto;
+    box-align:center;
+    
+}
+
+.inactive{
+    color:grey;
+   
+}
+
+.inactive:hover{
+    background-color: grey;
+}
 
 
 
